@@ -1,4 +1,4 @@
-# Mars 'a Yolculuk
+# Mars'a Yolculuk
 - Bu proje "graphics.h" kütüphanesi kullanılarak oluşturulmuş uzay oyunu projesidir.
 ## Oyunun Kuralları
 
